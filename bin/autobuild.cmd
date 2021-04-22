@@ -1,0 +1,1 @@
+sphinx-autobuild --re-ignore ".*build" --ignore "*.odt#" --ignore "*.tmp" %~dp0\..\testdoc\source %~dp0\..\testdoc\build
