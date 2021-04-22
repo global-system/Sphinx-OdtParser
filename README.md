@@ -1,5 +1,6 @@
 # Sphinx-OdtParser
 OdtParser allows to include odt(libreoffice) files in sphinx-doc.
+
 See pandoc for details of supported markup. 
 ## Installation 
 1. Install pandoc.
@@ -29,7 +30,7 @@ see: testdoc/source/conf.py
 ## Autobuild 
 See: bin/autobuild.cmd
 
-## Extension 
+## Extensions 
 
 ### Codeblock
 OdtParser allows to include codeblocks in odt files.
