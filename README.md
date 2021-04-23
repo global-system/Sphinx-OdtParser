@@ -7,7 +7,7 @@ See pandoc for details of supported markup.
    >See: https://pandoc.org/
 2. Install sphinx-doc
    >See: bin/initdev.cmd
-3. Copy src/sphinx_odtparser in a directory which is include in PYTHONPATH
+3. Copy src/sphinx_odtparser in a directory which is included in PYTHONPATH
 
 ## Add OdtParser
 Add following in the config.py:
